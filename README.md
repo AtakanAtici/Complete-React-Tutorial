@@ -1,4 +1,4 @@
-# Complete-React-Tutorial
+# Complete React Tutorial
 
 You can find the projects in the branches
 
